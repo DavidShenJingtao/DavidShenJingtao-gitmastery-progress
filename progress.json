@@ -125,5 +125,15 @@
       "You have not made any commits yet!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755659489.752008,
+    "completed_at": 1755659492.010794,
+    "comments": [
+      "You are still ignoring many/file22.txt.",
+      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that."
+    ],
+    "status": "Incomplete"
   }
 ]
